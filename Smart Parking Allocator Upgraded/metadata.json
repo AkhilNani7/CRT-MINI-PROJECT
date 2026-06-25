@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Allocation",
+  "description": "An interactive dashboard showcasing a Best-Fit Greedy Algorithm with dynamic surge pricing and real-time layout grid visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
